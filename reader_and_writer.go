@@ -1,7 +1,7 @@
 package main
 
 import (
-	"channel/channel"
+	"GoLangLearning/channel"
 	"fmt"
 	"sync"
 )
